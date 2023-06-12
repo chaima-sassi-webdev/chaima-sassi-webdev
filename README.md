@@ -70,13 +70,3 @@
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://coursera.org/share/e95ebd45194b19153f485d3060baed4d" target="blank"><img src="./img/certif1.jpg" width="80"></a> &nbsp; <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-SASSICHAIMA-974982.pdf" target="blank"><img src="./img/certif2.jpg" width="80"></a> &nbsp;  
 </p>
-
----
-
-
-<p align="center">&nbsp;
- 
-| 						Languages 						 |   
-| ------------------------------------------------------------------------------------------------------ | 
- | <img src="./img/3.png" />
-</p><br>
