@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Updating my readme for GitHub-->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taheny">
 
@@ -80,3 +81,21 @@
  | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 </p><br>
 
+=======
+### Hi there 👋
+
+<!--
+**chaima-sassi-webdev/chaima-sassi-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> b0aefeb73fbd5a08dafb4317c0bf93c9efeaaa56
