@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!-- Updating my readme for GitHub-->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taheny">
 
