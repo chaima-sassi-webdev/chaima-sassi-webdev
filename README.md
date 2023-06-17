@@ -38,7 +38,7 @@
 
 - 🌱 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
 
-- 💻 All **my projects** are available [here.](https://github.com/Chaima2000?tab=repositories)
+- 💻 All **my projects** are available [here.](https://github.com/chaima-sassi-webdev?tab=repositories)
   
 ### 🚀 Check out [my portfolio.]()
 ---
