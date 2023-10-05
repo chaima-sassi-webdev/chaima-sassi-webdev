@@ -2,7 +2,7 @@
 <!-- Updating my readme for GitHub-->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taheny">
 
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm CHAIMA SASSI!</h1>
+<h1 align="center" style="color: black" >Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm CHAIMA SASSI!</h1>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -11,7 +11,7 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Software+engineer+from+Tunisia;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
-<h4 align="center">Empowering your digital vision with my web development skills. Browse through my portfolio and experience the magic of my work! If you're seeking assistance in building a product, feature, or website, reach out to me without hesitation. Together, let's transform your ideas into reality!<h4/>
+<h4 align="center" style="color: black">Empowering your digital vision with my web development skills. Browse through my portfolio and experience the magic of my work! If you're seeking assistance in building a product, feature, or website, reach out to me without hesitation. Together, let's transform your ideas into reality!<h4/>
 <!-- Social icons section -->
 <p align="center">
 <a  href="https://www.linkedin.com/in/chaima-sassi/"  target="_blank">
