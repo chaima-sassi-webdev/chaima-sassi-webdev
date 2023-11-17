@@ -71,5 +71,5 @@
 
 <h2 align="left">Certificates & Licenses 🥇</h2>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://coursera.org/share/e95ebd45194b19153f485d3060baed4d" target="blank"><img src="./img/certif1.jpg" width="80"></a> &nbsp; <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-SASSICHAIMA-974982.pdf" target="blank"><img src="./img/certif2.jpg" width="80"></a>  &nbsp; <img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/3692540/original/chaima_Sassi20231117-73-13ncy1c.jpg" width="80"> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://coursera.org/share/e95ebd45194b19153f485d3060baed4d" target="blank"><img src="./img/certif1.jpg" width="80"></a> &nbsp; <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-SASSICHAIMA-974982.pdf" target="blank"><img src="./img/certif2.jpg" width="80"></a>  &nbsp;  <a href="https://olympus1.mygreatlearning.com/course_certificate/GNZFOSGO" target="blank"><img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/3692540/original/chaima_Sassi20231117-73-13ncy1c.jpg" width="80"> </a>
 </p>
