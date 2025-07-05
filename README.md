@@ -47,12 +47,12 @@
 <p align="left">
 <div>
 	<a href="https://github.com/chaima-sassi-webdev#" target="_blank" rel="noreferrer"><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" height="50" width="60" /></a>
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
-	<img height="50" src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" />
+	<a href="https://github.com/chaima-sassi-webdev#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" height="50"  width="60" /></a>
+	<a href="https://github.com/chaima-sassi-webdev#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" height="50" width="60" /></a>
+	<a href="https://github.com/chaima-sassi-webdev#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" height="50" width="60" /></a>
+	<a href="https://github.com/chaima-sassi-webdev#" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" height="50" width="60" /> </a>
+	<a href="https://github.com/chaima-sassi-webdev#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" height="50" width="60" />
+	<a href="https://github.com/chaima-sassi-webdev#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" height="50" width="60" /> </a>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" title="React" />
