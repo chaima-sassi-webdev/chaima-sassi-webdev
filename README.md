@@ -34,7 +34,7 @@
     
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="300"><br>
 	
-- 🎓 I have a **Engineer's degree** in Computer Science & Software Engineering. Obtained from the Iteam University, Tunisia.
+- 🎓 I have an **Engineer's degree** in Computer Science & Software Engineering. Obtained from the Iteam University, Tunisia.
 
 - 🌱 I’m looking to collaborate on Development OR DevOps projects.
 
