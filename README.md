@@ -20,9 +20,6 @@
 <a href="mailto:schaima2019@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a> 
 &#8287;&#8287;&#8287;
-<a  href="https://www.facebook.com/profile.php?id=100009247496932"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/facebook.png" height="40"  width="40"  /></a>
-&#8287;&#8287;&#8287;
 <a href="https://www.instagram.com/chaima_sassi99/" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
 </p>
